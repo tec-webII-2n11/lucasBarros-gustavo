@@ -1,10 +1,10 @@
 # lucasBarros-gustavo
 Projeto do semestre
-Tema: Blog 
+Tema: Blog de tecnologia 
 
 Público-alvo: Pessoas entre 16-35 anos que desejam saber informações sobre diversos assuntos 
 
-Objetivos do site: Informar as pessoas sobre assuntos como tecnologia, games, politica, economia e cronicas diarias.
+Objetivos do site: Informar as pessoas sobre assuntos como tecnologia, games, ciência e curiosidades.
 
 Funcionalidades do site: Criar posts de textos, imagens e as pessoas podem conversar com menssagens diretas. 
 
@@ -14,6 +14,6 @@ Usuário Logado: Tem acesso  a qualquer postagem do site e pode comentar adicion
 
 Usuário Visitante: Tem acesso a qualquer página do site entretanto pode apenas vizualizar.
 
-Mapa de Navegação:
+Mapa de Navegação: 
 
 Wireframe:
