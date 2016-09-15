@@ -14,6 +14,6 @@ Usuário Logado: Tem acesso  a qualquer postagem do site e pode comentar adicion
 
 Usuário Visitante: Tem acesso a qualquer página do site entretanto pode apenas vizualizar.
 
-Mapa de Navegação: 
+Mapa de Navegação: [mapa de navegção](mapanavegacao.html)
 
-Wireframe:
+Wireframe: 
