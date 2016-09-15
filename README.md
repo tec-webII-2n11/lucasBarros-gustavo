@@ -2,7 +2,7 @@
 Projeto do semestre
 Tema: Blog de tecnologia 
 
-Público-alvo: Pessoas entre 16-35 anos que desejam saber informações sobre diversos assuntos 
+Público-alvo: Pessoas entre 16-35 anos que desejam saber informações sobre tecnologia e afins. 
 
 Objetivos do site: Informar as pessoas sobre assuntos como tecnologia, games, ciência e curiosidades.
 
