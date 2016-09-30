@@ -1,0 +1,36 @@
+/*corpo do trabalho*/
+
+#margen{
+    margin-top: 55px;
+    
+}
+
+.alinhar{
+    text-align: justify;
+    margin:20px 35px 0px 20px;
+    
+}
+
+/*efeito*/
+#efeito1{position:relative;top:0;padding:0px 0px 0px 0px;
+    transition: all .2s ease-in-out}
+#efeito1:hover{top:-10px;box-shadow:0px 0px 0px #999}
+
+/*cometario*/
+
+.coment{
+    margin-top: 75px;
+    position: relative;
+    left: 20%;
+  
+}
+.coment2{
+    position: relative;
+    left: 20%;
+  
+}
+
+.margen1{
+    margin-top: 50px;
+    
+}
