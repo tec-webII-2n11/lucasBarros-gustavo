@@ -1,22 +1,41 @@
-<!doctype html>
 <html>
-
     <head>
-    
+      
+      <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      
+      <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+        
+      
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+       
         <meta charset='utf-8'>
         <meta name='author' content='Gustavo Brito'>
         <meta name='author' content='Lucas Barros Bezerra'>
-        <title>Tecnologia Computação</title> 
-    
-
+        <title>post6</title> 
+        <link rel="stylesheet" href="css/style.css" type="text/css"/>
     </head>
-     <?php
+
+    <body style="background-image:url(imagens/50.png)">
+      
+      <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+      <script type="text/javascript" src="js/materialize.min.js"></script>
+
+    
+        <?php
             include  "include/banner.php";
             include  "include/menu.php";
         ?>
-
-    <body>
-        <p> <b>23 de setembro de 1889: a Nintendo é oficialmente fundada</b><br>
+        
+      <div class="row">
+      <div class="col s6 offset-s3">
+        <div class="card-panel nav-wrapper blue-grey darken-2">
+          <span class="white-text">
+              
+              
+              
+              <h5>Sabe tudo ?  Então lê ai espertão</h5>
+                
+                <p class="alinhar"><p> <b>23 de setembro de 1889: a Nintendo é oficialmente fundada</b><br>
 Não, a data não está errada! A Nintendo que você conhece, de Mario, The Legend of Zelda e Pokémon, é uma empresa de séculos de vida. Só que ela 
 começou como Nintendo Koppai, uma marca de jogos de cartas típicos do Japão conhecidos como hanafuda. O fundador da companhia foi Fusajiro Yamauchi, 
 avô de Hiroshi Yamauchi — presidente mais icônico da Nintendo e o homem responsável por dar o pontapé inicial da produção de games.
@@ -44,8 +63,26 @@ O jogo da Konami manteve a névoa, os enigmas e as bizarrices do game original, 
 O resultado? Um dos títulos mais especiais da geração e de todo o gênero.
 <br>
 <br>
+                </p>
+            </article>
+            </section>
+          </span>
+        </div>
+      </div>
+    </div>
+   
+  
+   
+      <div class="row">
+  
+  </div>
+  
+        <?php
+            include "postagem_coment6.php";
+            include "areaDeComents6.php";
+            include "include/footer.php";
+        ?>
 
+</body>
 
-        </p>
-    </body>
 </html>
