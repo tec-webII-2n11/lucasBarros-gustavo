@@ -11,7 +11,7 @@
         <meta charset='utf-8'>
         <meta name='author' content='Gustavo Brito'>
         <meta name='author' content='Lucas Barros Bezerra'>
-        <title>Index</title> 
+        <title>Pagina2</title> 
         <link rel="stylesheet" href="css/style.css" type="text/css"/>
     </head>
 
@@ -28,57 +28,40 @@
         
       
         
-    <div id="margen">
-      <div class="row">
-        <div class="col s6 offset-s3">
-          <div class="card">
-            <div class="card-image">
-              <img id="efeito1" src="imagens/segurando.jpg">
-              <span class="card-title">QUANTO GANHA ?</span>
-            </div>
-            <div class="card-content">
-              <p>Confira os salários de grandes carreiras de TI no Brasil</p>
-            </div>
-            <div class="card-action">
-              <a href="tecnologia.php"> Leia Mais </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+   
     
     <div class="margen1">
       <div class="row">
           
           <div class="col s3 push-s6">
-    <h4 class="header">Vida fora da terra</h4>
+    <h5 class="header">Blasting News</h5>
     <div class="card horizontal">
       <div class="card-image">
-        <img src="imagens/teles.jpg">
+        <img src="imagens/batman.jpg">
       </div>
       <div class="card-stacked">
         <div class="card-content">
-          <p>China inicia operações em um dispositivo voltado a procurar por vida alienígena</p>
+          <p>As noticias do mundo dos games nessa semana. Seus lançamentos e principais highlights </p>
         </div>
         <div class="card-action">
-          <a href="#">Leia mais</a>
+          <a href="post5.php">Leia mais</a>
         </div>
       </div>
     </div>
   </div>
   
   <div class="col s3 pull-s0">
-    <h4 class="header">Vida fora da terra</h4>
+    <h5 class="header">Novo PlaySation 4 Pro</h5>
     <div class="card horizontal">
       <div class="card-image">
-        <img src="imagens/teles.jpg">
+        <img src="imagens/play4.jpg">
       </div>
       <div class="card-stacked">
         <div class="card-content">
-          <p>China iniciou operações em um dispositivo voltado a procurar por vida alienígena</p>
+          <p>Confira aqui o novo PlayStation 4 aqui. Suas features e melhoras.</p>
         </div>
         <div class="card-action">
-          <a href="#">Leia mais</a>
+          <a href="post4.php">Leia mais</a>
         </div>
       </div>
     </div>
@@ -92,10 +75,37 @@
   
   </div>
   
+   <div id="margen">
+      <div class="row">
+        <div class="col s6 offset-s3">
+          <div class="card">
+            <div class="card-image">
+              <img id="efeito1" src="imagens/histgames.jpg">
+              <span class="card-title">SOBRE GAMES</span>
+            </div>
+            <div class="card-content">
+              <p>Saiba sobre alguns fatos da historia dos videogames</p>
+            </div>
+            <div class="card-action">
+              <a href="post6.php"> Leia Mais </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
         
-        <?php
-            include "include/paginacao.php";
-        ?>
+       <div class="container">
+          <div class="row">
+          <div class ="col s4 offset-s5">
+          <ul class="pagination" >
+    
+            <li class="waves-effect"><a href="index.php">1</a></li>
+            <li class="grey darken-2"><a href="pagina2.php">2</a></li>
+            <li class="waves-effect"><a href="pagina3.php">3</a></li>
+          </ul>
+        </div>
+        </div>
+        </div>
         
         <?php
             include "include/footer.php";
